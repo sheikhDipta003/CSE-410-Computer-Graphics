@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702998851 source:c:\users\hp\desktop\4-1\cse410-graphics-sessional\octagon_to_sphere\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<vector>
+

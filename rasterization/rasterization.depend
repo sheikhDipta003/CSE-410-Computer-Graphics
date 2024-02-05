@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1704388125 source:c:\users\hp\desktop\4-1\cse410-graphics-sessional\rasterization\main.cpp
+	<bits/stdc++.h>
+	"headers.h"
+	"bitmap_image.hpp"
+
+1704388245 c:\users\hp\desktop\4-1\cse410-graphics-sessional\rasterization\headers.h
+	<bits/stdc++.h>
+
+1703830151 c:\users\hp\desktop\4-1\cse410-graphics-sessional\rasterization\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<cstring>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+	<vector>
+
