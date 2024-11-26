@@ -58,8 +58,7 @@ In this [assignment](https://github.com/sheikhDipta003/CSE-410-Computer-Graphics
 
 ## Demo
 
-Insert gif or link to demo
-
+https://github.com/user-attachments/assets/6f337853-9556-4cc2-b87e-107b09f25ed2
 
 ## Author
 
