@@ -44,7 +44,8 @@ In this [assignment](https://github.com/sheikhDipta003/CSE-410-Computer-Graphics
 
 ## Demo
 
-Insert demo video
+
+https://github.com/user-attachments/assets/f54547dd-14fe-4406-be3f-26514fa7f77a
 
 
 ## Author
