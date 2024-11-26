@@ -44,7 +44,7 @@ In this [assignment](https://github.com/sheikhDipta003/CSE-410-Computer-Graphics
 
 ## Demo
 
-[output image for IOs/1](images/out.png)
+Insert demo video
 
 
 ## Author
