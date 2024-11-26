@@ -1,7 +1,7 @@
 
 # Rolling Ball and Magic Cube with Controllable Camera
 
-Code for assignment 1 of CSE410 sessional course. In this assignment, a keyboard-contraollable camera is implemented, along with a rolling ball on the xy plane and a magic cube that can be transformed back and forth between an octahedron and a sphere.
+Code for [assignment 1](https://github.com/sheikhDipta003/CSE-410-Computer-Graphics/blob/518111636d5e25ae12ad2bc916ae2e2cd291d23f/Offline-1-OpenGL/CSE410_opengl.pdf) of CSE410 sessional course. In this assignment, a keyboard-contraollable camera is implemented, along with a rolling ball on the xy plane and a magic cube that can be transformed back and forth between an octahedron and a sphere.
 
 ## Features
 
@@ -63,7 +63,13 @@ Code for assignment 1 of CSE410 sessional course. In this assignment, a keyboard
 
 ## Demo
 
-Insert gif or link to demo
+## Rolling Ball
+
+https://github.com/user-attachments/assets/5cb38a7e-e688-4ab7-9d66-b80cde26cc4f
+
+## Magic Cube
+
+https://github.com/user-attachments/assets/bfc5093b-5c93-49a5-ae71-4dbd51e79287
 
 
 ## Author
